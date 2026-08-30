@@ -27,7 +27,7 @@ Below is a preview of the homepage.
 
 ## 🌐 Live Demo 
 
-[View Live Demo] (https://leo-devfullstack.github.io/coffee-shop-template/)
+[View Live Demo] (https://leo-devfullstack.github.io/coffee-shop-demo/)
 
 ---
 ## What's Included
