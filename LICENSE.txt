@@ -1,0 +1,82 @@
+COFFEE SHOP — WEBSITE TEMPLATE
+END USER LICENSE AGREEMENT
+
+Copyright (c) 2026 Leonardo Farias Nascimento
+All rights reserved.
+
+This license applies to the Coffee Shop website template and the
+original source code and materials created by the author and included
+with this product.
+
+1. PERMITTED USE
+
+The purchaser is granted a non-exclusive, non-transferable license to:
+
+- Use the Coffee Shop template for personal or commercial projects.
+- Modify, customize, and adapt the source code for their own projects.
+- Use the template to create a website for themselves or for a client.
+
+2. RESTRICTIONS
+
+The purchaser may NOT:
+
+- Resell, sublicense, or redistribute the Coffee Shop template or its
+  source files as a standalone product.
+- Share, upload, publish, or distribute the original template files or
+  the complete source-code package to third parties.
+- Make the template or a substantially unchanged version available on
+  another marketplace, website, repository, or file-sharing service.
+- Claim the original template or its source code as their own work.
+- Use the template as the basis for creating a competing template
+  intended for resale or redistribution.
+
+3. CLIENT PROJECTS
+
+The purchaser may use the template to create a website for a client.
+The resulting website may be delivered to that client as a finished
+website. However, the original Coffee Shop template source package may
+not be redistributed to the client or other third parties as a
+standalone template for further resale or redistribution.
+
+4. THIRD-PARTY RESOURCES
+
+This license does not replace or override the licenses of third-party
+resources included in or used by the template, such as fonts,
+libraries, frameworks, icons, images, or other external assets.
+
+Third-party resources remain subject to their respective licenses and
+terms. The purchaser is responsible for complying with those licenses
+when using or modifying such resources.
+
+5. OWNERSHIP
+
+The Coffee Shop template, including its original source code and
+original materials, remains the intellectual property of the author,
+except for third-party resources that belong to their respective
+owners.
+
+The purchaser receives a license to use the product; ownership of the
+original template is not transferred.
+
+6. DISCLAIMER
+
+The template is provided "as is", without warranties of any kind,
+express or implied, to the maximum extent permitted by applicable law.
+
+The author is not responsible for damages, losses, or issues resulting
+from the use or modification of the template.
+
+7. SUPPORT AND UPDATES
+
+Purchase of the Coffee Shop template does not automatically include
+ongoing support, maintenance, or future updates unless expressly
+stated on the product's sales page.
+
+8. ACCEPTANCE
+
+By purchasing or downloading the Coffee Shop template, the purchaser
+acknowledges that they have read, understood, and agreed to the terms
+of this license.
+
+For questions regarding this license, please contact the author
+through the contact method provided on the product's sales page.
